@@ -1,6 +1,6 @@
-# Blue-Team
+# ODIN
 
-GitHub repository for the Blue Team in ASEN 4018, Section 17 (2026–27).
+GitHub repository for the Blue Team (ODIN) in ASEN 4018, Section 17 (2026–27).
 
 ## Branch Structure
 
